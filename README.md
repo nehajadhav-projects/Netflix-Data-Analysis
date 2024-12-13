@@ -2,6 +2,11 @@
 
 ## Description:
 This Power BI dashboard provides a comprehensive analysis of Netflix's content library, encompassing movies and TV shows from various perspectives, including ratings, release years, countries of origin, and directors. It visualizes trends, distribution, and key metrics, offering actionable insights into Netflix's extensive catalog.
+
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiZDc3NmYwOTctNzY1OC00YWE0LThjNzEtMDE2MDZjYjM4MzgyIiwidCI6Ijg5MDI1YjA2LWY2NTItNGM1Mi1hODEzLTgyNGU2YWIyZjVlNiJ9
+">View Live Interactive Dashboard</a>
+
 ________________________________________
 ## Problem Statements:
 1.	How is the distribution of movies and TV shows categorized by content rating?
